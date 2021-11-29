@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imohsinali&label=Profile%20views&color=129e00&style=plastic" alt="imohsinali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanmm010&label=Profile%20views&color=129e00&style=plastic" alt="arsalanmm010" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,11 +28,11 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imohsinali&show_icons=true&locale=en&layout=compact" alt="imohsinali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanmm010&show_icons=true&locale=en&layout=compact" alt="arsalanmm010" /></p>
 <span>
-<p style="width:50px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imohsinali&show_icons=true&locale=en" alt="imohsinali" /></p>
+<p style="width:50px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalanmm010&show_icons=true&locale=en" alt="arsalanmm010" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imohsinali&" alt="imohsinali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanmm010&" alt="arsalanmm010" /></p>
 
 </span>
 
