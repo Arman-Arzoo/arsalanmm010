@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
-<h3 align="center">A passionate Web Developer developer</h3>
+<h1 align="center">Hi 👋, I'm Syed Arsalan Khan</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
 
 
